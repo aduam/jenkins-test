@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aduam/jenkins-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aduam/jenkins-test/issues"
+  },
+  "homepage": "https://github.com/aduam/jenkins-test#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
